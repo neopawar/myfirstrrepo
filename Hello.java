@@ -2,6 +2,6 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("hello 2nd commit ");
+System.out.println("hello third commit ");
 }
 
